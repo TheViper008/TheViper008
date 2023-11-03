@@ -3,11 +3,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vaishnavsudheer2003?theme=dark&font=Cambay&ext=heatmap" />
-</p>
-
----
 <table align="center">
 <tr>
 <td width="50%" align="center">
@@ -26,6 +21,11 @@
   </td>
 </tr>
 </table>
+---
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vaishnavsudheer2003?theme=dark&font=Cambay&ext=heatmap" />
+</p>
 
 ---
 
