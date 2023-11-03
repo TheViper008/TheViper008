@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Sudheer</h1>
 <h3 align="center">A passionate Computer Science Engineering Student</h3>
 
+---
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vaishnavsudheer2003?theme=dark&font=Cambay&ext=heatmap" />
 </p>
