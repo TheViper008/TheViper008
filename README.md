@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vaishnavsudheer2003?theme=dark&font=Cambay&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Vaishnav08?theme=dark&font=Cambay&ext=heatmap" />
 </p>
 
 ---
