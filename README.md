@@ -28,12 +28,24 @@
 </p>
 
 ---
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theviper008&show_icons=true&locale=en&layout=compact" alt="theviper008" /></p>
-
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theviper008&show_icons=true&locale=en" alt="theviper008" /></p>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img  align="center"  src="https://streak-stats.demolab.com?user=TheViper008&theme=dark-smoky&exclude_days=Sat" />
+  <br><br>
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TheViper008&theme=graywhite&show_icons=true" /> 
+</td>
+  
+<td width="50%" align="center">
+ 
+  <br><br>
+  <a href="https://github.com/TheViper008">
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheViper008&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
+</a>
+ <br><br>
+  </td>
+</tr>
+</table>
 
 ---
 
