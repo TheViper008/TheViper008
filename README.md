@@ -46,5 +46,5 @@
   </ul>
 </div>
   <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/shresthacodes/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/TheViper008/count.svg" />
 </p>
