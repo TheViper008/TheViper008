@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Sudheer</h1>
-<h3 align="center">Welcome To My GitHub</h3>
+<h2 align="center">Welcome To My GitHub</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
