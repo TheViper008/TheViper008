@@ -29,6 +29,10 @@
   <img src="https://leetcard.jacoblin.cool/vaishnavsudheer2003?theme=dark&font=Cambay&ext=heatmap" />
 </p>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theviper008&show_icons=true&locale=en&layout=compact" alt="theviper008" /></p>
+
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theviper008&show_icons=true&locale=en" alt="theviper008" /></p>
