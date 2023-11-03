@@ -29,7 +29,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theviper008&show_icons=true&locale=en&layout=compact" alt="theviper008" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theviper008&show_icons=true&locale=en&layout=compact" alt="theviper008" /></p>
 
 ---
 
@@ -37,12 +37,4 @@
 
 ---
 
-<p>
-  <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Vistors</h2></summary>
-  </ul>
-</div>
-  <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/TheViper008/count.svg" />
-</p>
+
