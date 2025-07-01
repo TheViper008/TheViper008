@@ -42,8 +42,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaishnav-sudheer-137522254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaishnav-sudheer-137522254" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaishnavsudheer2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavsudheer2003" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaishnav-sudheer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnav-sudheer/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Vaishnav08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Vaishnav08/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
