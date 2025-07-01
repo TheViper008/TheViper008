@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **vaishnavsudheer2003@gmail.com**
 
-- ⚡ Fun fact: **I play Basketball,Table Tennis**
+- ⚡ Fun fact: **I play Basketball,Table Tennis, Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
